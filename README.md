@@ -3,7 +3,7 @@
 
 
 
-# FUNCTIONALITIES:
+## Functionalities:
 
 ## Add student record
 ## Add teacher record
